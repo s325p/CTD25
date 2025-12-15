@@ -1,0 +1,11 @@
+websocket-client==1.8.0
+websockets==15.0.1
+webcolors==24.11.1
+webencodings==0.5.1
+pygame==2.6.1
+Pygments==2.19.2
+pytest==8.4.1
+opencv-python
+keyboard
+numpy
+Pillow
